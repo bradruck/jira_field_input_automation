@@ -47,7 +47,7 @@ Primary Users:    <ul>
                   </ul>
 
 Lead Customer:    <ul>
-                  <li>Brian Quinn(brian.p.quinn@oracle.com)
+                  <li>
                   </ul>
 
 Lead Developer:   <ul>
